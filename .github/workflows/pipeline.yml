@@ -14,6 +14,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Download vector DB artifact (if exists)
+        uses: actions/download-artifact@v4
+        with:
+          name: vector-db
+          path: data/vector_db
+        continue-on-error: true
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -27,3 +34,9 @@ jobs:
       - name: Run full pipeline
         run: |
           python src/pipeline.py
+
+      - name: Upload vector DB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: vector-db
+          path: data/vector_db

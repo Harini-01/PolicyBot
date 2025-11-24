@@ -2,3 +2,9 @@
 venv/
 __pycache__/
 *.pyc
+<<<<<<< HEAD
+
+data/vector_db/
+logs/
+=======
+>>>>>>> 4ef08341f802afb1ed774dcb9a98ccf0c1a8e755

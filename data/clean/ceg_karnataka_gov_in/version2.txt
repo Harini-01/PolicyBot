@@ -518,4 +518,524 @@ Step 5: In the next page,
 5- Password: Create the password
 6- Save: Click on the save button.
 (A message User Saved Succesfully will appear)
+Web Portal User Manual
+Version CeG/KRN 2.0.0
+:
+Guidelines, Responsibilities, Activities and Methods
+Karnataka State Web Portal
+Centre for e-Governance, Department of Personnel and Administrative Reforms (e-Governance), 2nd
+Floor, B Block, Shanthinagar, TTMC-BMTC Building, Bengaluru-27, Contact: 080-22230060,
+e-mail: pd.webportal@karnataka.gov.in/pm.webportal@karnataka.gov.in
+Table of Contents
+A. Creator Activities ...................................................................................................................................................... 2
+1. Logging into CMS ................................................................................................................................................ 2
+2. Uploading Profile ...................................................................................................................................................... 3
+3. Creating Pages .......................................................................................................................................................... 4
+4. Uploading documents to server ......................................................................................................................... 7
+5. Uploading Title and Logo to the main page .......................................................................................................... 8
+6. Uploading infomation about the department/office into the website .................................................................... 9
+7. Uploading details/photograhs of Ministers and Head of Departments ............................................................... 10
+8. Creation of Navigation Menus ................................................................................................................................ 11
+9. Uploading Sliders to the Website ........................................................................................................................ 15
+10. Uploading Latest News ................................................................................................................................... 16
+12. Linking Social Media Accounts to Website .................................................................................................... 17
+13. Uploading information in the Notificiation Block .......................................................................................... 18
+14. Uploading informtaion to the In Focus block ................................................................................................. 20
+15. Uploading information about Online Services ................................................................................................ 21
+16. Uploading Video and Image Gallery .............................................................................................................. 23
+17. Creating menu in the Department Document Block ....................................................................................... 24
+18. Siging Out ....................................................................................................................................................... 25
+B. Moderator Activities ............................................................................................................................................... 26
+1. Signing in to the website ......................................................................................................................................... 26
+2. Uploading Profile ................................................................................................................................................ 26
+3. Examining/Editing and Forwarding the content for approval ............................................................................. 27
+C. Approver/Nodal Officer Responsibilites ................................................................................................................. 28
+1. Signing-in to the website ..................................................................................................................................... 28
+2. Uploading Profile ................................................................................................................................................ 28
+3. Examining the content and publishing. ............................................................................................................... 29
+D. Creating Credentials ................................................................................................................................................ 30
+1
+A. Creator Activities
+1. Logging into CMS
+Step.1: Sign In
+Enter the given website URL in the browser to open the website.
+Step 2: Click on Sign in button inside the website
+Step 3: Later a new window appears in which
+1. Enter the e-mail ID provided
+2. Enter the password
+3. Enter the CAPCHA
+4. Click on the login button
+2
+2. Uploading Profile
+It is mandatory for users to upload the details in the CMS. Here the users can enter their names, mobile numbers and
+change their passwords. Follow the below method for change of password.
+Step 1: Login to CMS
+Step 2: Later click on the Hi Creator button on the left side corner of the dashboard.
+Step 3: Next click on the Profile option
+Step 4: Enter the details as mentioned below in the page
+1- Enter your name
+2- You will have no option to change the email-id already existing.
+3- Enter your mobile number
+4- Your role as the creator is already pre-filled.
+5- Enter the new password you wish to set. (Prior to entering the new password kindly read the password policy)
+6- Later, click on the SAVE button.
+Step 6: Based on the information provided you will receive a message User Saved Successfully.
+(In case you don’t receive this message it means there are some defects while entering information. Kindly, revisit the
+process and set right the mistakes if any).
+3
+3. Creating Pages
+It is important to create pages for it to be displayed on the website. Follow the below steps to create pages in the
+website.
+Step 1: At first login to the CMS of the website.
+Step 2: Later select Pages displayed on the dashboard.
+Step 3: Click on the Add Page button located on the left side of the window.
+Step 4: Later, enter the following details in the new box
+4
+1. For adding banner image to the page click on the Choose File button and selected image to be uploaded
+(vertical images are preferred). However, it is not mandatory.
+2. Do not click on the page button. Incase you click, do not select any of the options.
+3. Enter the title in English language.
+4. Enter the English content and photographs to be appearing in the content box.
+5. Later, enter the Kannada title in the content box.
+6. After having entered the title now provide the content in the Kannada language as well as photographs.
+A. Creating tables in the pages
+For creating tables, you can either create the table in excel or word and then paste the same in the page or
+select the table option in the content box.
+B. Uploading photographs
+Follow the below mentioned steps to upload photographs (except for uploading galleries):
+Step 1: Click on the Media button on the page after you have logged in.
+Step 2: Later, click on the +Add Media button located on the right side corner of the page.
+Step 3: Later, follow the steps mentioned below:
+5
+1- Click on the Select Category and later click on the Feature Images option.
+2- Later, enter the media file title in the Add English Title Here column.
+3- Add Kannada title in Kannada language.
+4- # Should be retained as it is.
+5- # Should be retained as it is.
+6- Click on the Choose File button and select the image from the file to be uploaded.
+7- After having filled up all the fields, click on the Save Media button located on the top right side.
+Step 1: Open the page you wish to upload the images and click on the Media button located on the right side.
+Step 2: Later, in the page that opens up copy the URL of the image to be uploaded or click on the copy button
+as shown in the below image.
+Step 3: Click outside the page.
+Step 4: Click on the space where you wish to insert the image.
+Step 5: Click on the image icon shown in the below picture.
+6
+Step 6: Later, in the box that appears,
+1- Paste the link in the Source block
+2- Write the Image description if necessary.
+3- Enter the required image Dimensions (H x V Pixels)
+4- And click on the Ok button.
+8- Later click on the Save button located on the top right side.
+4. Uploading documents to server
+To upload PDF, Images, Videos and Sound files in the website, first upload them in the server. Later, copy the URL
+and the paste it wherever necesssary to be published in the website. Follow the below mentioned steps to upload the
+documents to the server.
+Step 1: Login to the website.
+Step 2: Later click on the Media button on the CMS home page.
+Step 3: In the next page select +Add Media button.
+7
+Step 4: In the following page
+1- Click on the Media Category and select Documents in the download option.
+2- Enter the document title in the English language in the Media Title box.
+3- Later, enter the document title in the Kannada language in the Kannada Media Title.
+4- Retain the # symbol without making changes.
+5- In the Kannada Link retain the # symbol without making changes.
+6- Select the Choose File button and select the document to be uploaded.
+7- Later, click on the Save button located on the top right corner of the page.
+The uploaded documents can be published in the website by clicking on the Media button from the CMS page.
+5. Uploading Title and Logo to the main page
+The concerned departments/boards/authorities/corportation are responsible for uploading header and logos to the
+website. Following steps have be followed to the upload the same.
+Step 1: Login to the website.
+Step. 2: Later, select Department Settings in the page.
+8
+Step 3: Later, a new page opens in which:
+1- Click on the Choose File and upload the logo in the English language.
+2- Choose Kannada logo (*) and upload the logo designed in Kannada language.
+3- Click on the Department Name and enter the deparment name in the English language.
+4- Click on the Kannada Department Name (*) and enter the department name in Kannada language.
+5- Click on the Department Subtitle (*) and enter the Department/Secretariat subtitle in the English language.
+6- Click on the Kannada Department Subtitle (*) and enter the Department/Secretariat subtitle in the Kannada
+language.
+7- Later, click on the Save Departement Settings button to save the data entered.
+(On clicking on the save department settings you will get a message Department Settings Saved Successfully. In
+case the data entered is wrong the above message will not appear. You will have to revisit the page to re-enter the
+data.)
+6. Uploading infomation about the department/office into the website
+Infomation about the department has to be upload seperately in to the website. Following steps has to be followed to
+upload the details.
+Step 1: Login to the website.
+9
+Step. 2: Later click on the Department Settings button in the new page.
+Step. 3 : In the Home page About Content section that opens later,
+1- Enter the Department’s brief details in the English language.
+2- In case of more details create a new page and link the same to the brief.
+3- Enter the Department’s brief details in the Kannada language.
+4- In case of more details create a new page and link the same to the brief.
+5- Click on Choose File and upload the Department image.
+6- Later, click on the Save Settings button locted on the right corner of the page to the save the data entered.
+7. Uploading details/photograhs of Ministers and Head of Departments
+Following the steps mentioned below to upload details and photographs of Ministers/Head of Departments.
+Step 1: Login to the website.
+Step. 2: Later, select the Depatment Settings from the new page.
+Step. 3: In the new page that opens enter the details of the concerned Minister and HOD in their respective section.
+10
+1- Click on Minister Name and enter the name in English language.
+2- Click on Kannada Minister Name and enter the name in Kannada language.
+3- Click on Minister Designation and enter the Minister’s designation in English language.
+4- Click on Kannadda Minister Designation and enter the Minister’s designation in Kannada language
+5- Click on Choose File and upload the concerned Minister’s official image from the gallery.
+6- Click on HOD Name and enter the name in English language.
+7- Click on Kannda HOD Name and enter the name in Kannada language
+8- Click on HOD Designation and enter the designation in English language.
+9- Click on Kannda HOD Designation and enter the designation in Kannada language.
+10- Click on Choose File and upload the concerned HOD’s image from the gallery.
+11- Later, click on the Save Department Settings buttion located on the right top corner of the page.
+8. Creation of Navigation Menus
+1. Primary Menus
+Follow the below mentioned steps to create primary menus
+Step 1: Login to the website.
+Step 2: Later, click on the Main Menu in the new page.
+Step 3: Select +Add menu from the new page.
+11
+Step 4: In the pop-up page that opens later,
+1-Click on Select Parent and opt Self Parent option.
+2- In the Menu Name section enter the name in English language.
+3- Enter the name in Kannada language in the Kannada Menu Name section.
+4- Entering details in Icon Classess is not mandatory.
+5- Entering details in Menu Classess is not mandatory.
+6- Entering details in Feature Image is not mandatory.
+7- To publish Select Page Menu select on the option and select the link of the required page (the page has be
+created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select Main Menu.
+9-In order to publish the Menu in the Link format remove the # symbol and paste the link of the earlier created
+Menu in the box.
+10- In order to publish the Menu in the Kannada Link format remove the # symbol and paste the link of the
+earlier created Menu in the box. (In case of menu to be published in page format # symbol has to be retained.)
+11-To Save click on the Save button on the right corner of the page.
+(Note: In case you want to create a blank menu, do not make any changes in the Page, Link and
+Kannada Link. Retain the page as it is and then select SAVE button.)
+2. Second stage drop down menus
+Step 1: Login to the website.
+Step 2: Create the necessary blank menu.
+Step 3: Click on the Main Menu again.
+Step 4: Click on the +Add New as shown in the image.
+12
+Step 5: Later in the new page that opens:
+1- In the Select Parent select the Menu for which Second Menu has to be created.
+2- Enter the name in the English Language in the Menu Name.
+3- Enter the name in the Kannada language in the Kannada Menu Name section.
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is.
+6- Entering data in Feature Image is not mandatory. Retain as it is.
+7- To publish Select Page Menu select on the option and select the link of the required page (the page has be
+created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select Main Menu.
+9- In order to publish the Menu in the Link format remove the # symbol and paste the link of the earlier
+created Menu in the box.
+10- In order to publish the Menu in the Kannada Link format remove the # symbol and paste the link of the
+earlier created Menu in the box. (In case of menu to be published in page format # symbol has to be retained.)
+11- To Save click on the Save button on the right corner of the page.
+(Note: In case you want to create a blank menu, do not make any changes in the Page, Link and
+Kannada Link. Retain the page as it is and then select SAVE button.)
+3. Third Stage Menus
+Step 1: Login to the website.
+Step 2: Create the necessary blank menu (primary menu).
+Step 3: Click on the Main Menu again and click on the +Add New as shown in the image.
+.
+13
+Step 4: Later in the new page that opens:
+1- In the Select Parent select the Menu for which Third Level Menu has to be created..
+2- Enter the name in the English Language in the Menu Name.
+3- Enter the name in the Kannada language in the Kannada Menu Name section.
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is
+6- Entering data in Feature Image is not mandatory. Retain as it is.
+7- To publish Select Page Menu select on the option and select the link of the required page (the page has be
+created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select Main Menu
+9- In order to publish the Menu in the Link format remove the # symbol and paste the link of the earlier
+created Menu in the box.
+10- In order to publish the Menu in the Kannada Link format remove the # symbol and paste the link of the
+earlier created Menu in the box. (In case of menu to be published in page format # symbol has to be
+retained.).
+11- To Save click on the Save button on the right corner of the page.
+14
+9. Uploading Sliders to the Website
+Following the steps mentioned below to upload sliders to the website
+Step 1: Login to the website
+Step 2: Later click on the Media button in the new page
+Step 3: Click on the +Add New in the page as shown in the image
+Step 4: Later in the new page:
+1-In the Media Category select the Home Page Slider option.
+2-Enter the title in English language under the Media Title option.
+3-Enter the title in Kannada language under the Kannada Media Title option.
+4- To paste the hyperlink to slider images remove the # symbol and paste the link under Link (optional) segment. Else
+retain the # symbol.
+5- To paste the Kannada hyperlink under the Kannada Link (optional) remove the # symbol and paste the link under
+Link (optional) segment. Else retain the # symbol.
+6- To upload the image click on the Choose file and select the required image.
+7-Later click on the Save Media.
+15
+(Note: One image can be uploaded at once. To upload more image repeat the above mentioned steps.)
+10. Uploading Latest News
+Follow the below mentioned steps to upload latest news in the website.
+Step 1: Login to the website
+Step 2: Click on the News and Events button in the new page.
+Step 3: In the next page select +Add Menu located on the right side of the page.
+Step 4: In the pop-up page,
+1- Click on the Select Parent and select Self Parent from the available options.
+2- Enter the details in the English langauge in the Menu Name
+3- Enter the details in the Kannada language in the Kannada Menu Name
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is.
+6- Entering data in Feature Image is not mandatory. Retain as it is.
+7- To publish Select Page Menu select on the option and select the link of the required page (the page has be
+created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select News & Events.
+16
+9- In the Link section remove the # symbol and paste the link of the English Menu to be published in the link
+format.
+10- In the Kannada Link section remove the # symbol and paste the link of the Kannada Menu to be published
+in the link format.
+11- Later click on the Save button located on the right side corner to save the data entered.
+12. Linking Social Media Accounts to Website
+Follow the below mentioned steps to link Department owned social media accounts to the website.
+Step 1: Login to the website.
+Step 2: Click on Social Links located on the left side of the new page.
+Step 3: Click on the +Add Menu in the new page that opens.
+17
+Step 4: Later in the new page:
+1- Click on the Select Parent and select Self Parent from the available options.
+2- In the Menu Name enter the social media name in the English lanaguge.
+3- In the Kannada Menu Name enter the social media name in the Kannada lanaguge.
+4- Click on the Icon Classess and select the required logo of the social media.
+5- Entering data in Menu Classess is not mandatory. Retain as it is
+6- Entering data in Feature Image is not mandatory. Retain as it is
+7- Retain the # symbol in the Select Page section.
+8- Select Menu Category and click on Social Links.
+9- Remove the # in Link section, and the paste the social media in the section.
+10- In the Kannada Link section remove the # symbol and paste the social media Kannada link.
+11- Later, click on the Save button located on the bottom right corner of the page.
+Note: One social media link can be uploaded at once. To upload more social media links repeat the above
+mentioned steps.
+13. Uploading information in the Notificiation Block
+The above marked space in the website is known as Notification Block. Heading to this section can be uploaded
+according to the information avilable.
+To change the heading follow the below mentioned steps
+Step 1: Login to the website.
+Step 2: Click on the Notifications button located on the left side of the page.
+18
+Step 3: In the new page:
+1- Enter the desired headline in the English language under the English Block Name section.
+2- Enter the desired headline in the Kannada language under the Kannada Block Name section.
+3- Later, click on the Save Block Name.
+The Heading of the Notification Block changes as soon as the infomration is saved.
+To upload content in the Notification Block follow the below mentioned steps
+Step 1: Click on +Add Menu
+Step 2: In the new page:
+19
+1- Click on the Select Parent and select Self Parent from the available options.
+2- In the Menu Name enter the details in the English lanaguge.
+3- In the Kannada Menu Name enter the details in the Kannada lanaguge.
+4 Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is.
+6-Feature Image Entering data in Feature Image is not mandatory. Retain as it is.
+7- To publish Select Page Menu in the page format select on the option and select the link of the required page
+(the page has be created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select Notification option.
+9-To publish Menu in the link format click in Link and paste the menu link by removing the # symbol.
+10- To publish Kannada Menu in the link format click in Link and paste the Kannada menu link by removing
+the # symbol.
+11-Later, click on the Save button located on the right side bottom of the page.
+14. Uploading informtaion to the In Focus block
+Depending on the information available title to the In Focus name can be changed. Follow the below steps to make the
+desired changes.
+To change the name in the In Focus Block
+Step 1: Login to the website.
+Step 2: Click on the In Focus button on the leftside of the page.
+Step 3: Later, in the new page:
+1-Enter the block title in the English Block Name
+2-Enter the block title in Kannada language in the Kannada Block Name section.
+3- Later, click on the Save Block Name to the change of the block.
+To enter content in the block follow the below mentioned steps
+Step 1: Click on the +Add Menu button.
+20
+Step 2: In the pop-up page:
+1- Click on the Select Parent and select Self Parent from the available options
+2- In the Menu Name section enter the title in the English language.
+3-Next, enter the title in the Kannada language in the Kannada Menu Name section
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5-- Entering data in Menu Classess is not mandatory. Retain as it is.
+6- Click on the Feature Image and select the desired image to be uploaded.
+7- To publish Select Page Menu in the page format select on the option and select the link of the required page
+(the page has be created earlier). In case of menu to be published in link format # symbol has to be retained.
+8- Click on Select Menu Category and select In Focus option.
+9- To publish Menu in the link format click in Link and paste the menu link by removing the # symbol
+10- To publish Kannada Menu in the link format click in Link and paste the Kannada menu link by removing
+the # symbol.
+12- Later, click on the Save button located on the right side bottom of the page.
+15. Uploading information about Online Services
+To enter content about Online Services in the website follow the below mentioned steps
+.
+Step 1: Login to the website.
+Step 2: In the next page click on the Online Services button located on the leftside.
+21
+Step 3: In the next page that opens select +Add Menu.
+Step 4: In the Pop-up page
+1- Click on the Select Parent and select Self Parent from the available options.
+2- In the Menu Name section enter the title in the English language.
+3- Next, enter the title in the Kannada language in the Kannada Menu Name section.
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is.
+6- Entering data in Feature Image is not mandatory. Retain as it is.
+7-Select Page To publish Select Page Menu in the page format select on the option and select the link of the
+required page (the page has be created earlier). In case of menu to be published in link format # symbol has to
+be retained.
+8- Click on Select Menu Category and select Online Services option.
+22
+9- To publish Menu in the link format click in Link and paste the menu link by removing the # symbol
+10- To publish Kannada Menu in the link format click in Link and paste the Kannada menu link by removing
+the # symbol.
+11- Later, click on the Save button located on the right side bottom of the page.
+16. Uploading Video and Image Gallery
+To upload video/image gallery in the website follow the below mentioned steps:
+Step 1: Login to the website.
+Step 2: Later click on Galleries categories button in the new page
+Step 3: In the new page click on +Add Gallery Category
+Step 4: In the next page
+1- Enter the name in the English language in the name section.
+2- In the Kannada Name section enter the name in Kannada language.
+3- Click on the Media Type and select the image, video and sound clips to be uploaded.
+4- Later, click on the Save Gallery Category
+Step 5: Click on the Gallery button
+Step 6: Later, select +Add Gallery
+23
+Step 7: In the next page
+1- Click on the Select Category and select alreay created Gallery Category option
+2- Click on the Choose Files and select the images, videos and sound clips
+3- At the end click on the Save Gallery button.
+17. Creating menu in the Department Document Block
+(Note: Departments have to create the table as shown below prior to uploading of the documents. (Page has to be
+created)
+Sl. Document
+Document Name Date Language Size Action
+No Source
+Namen of
+Enter the name of Kannada View /
+1 01.02.2022 the 000KB
+the document /English Download
+Department
+Step 1: Login to the website
+Step 2: Select the Department Documents button in the new page.
+Step 3: In the new page that opens, select +Add Menu option
+24
+Step 5: In the new page that opens later,
+1 Click on the Select Parent and select Self Parent from the available options.
+2- Enter the name in the English language in the Menu Name section.
+3- Enter the name in the English language in the Kannada Menu Name section
+4- Entering data in Icon Classess is not mandatory. Retain as it is.
+5- Entering data in Menu Classess is not mandatory. Retain as it is.
+6- Entering data in Feature Image is not mandatory. Retain as it is.
+7-Click on the Select Page option and select the table already created.
+8-Later, click on the Select Menu Category and select Department Documents
+9- Do not add any content in the Link section.
+10-Do not add any content in the Kannada Link
+11-Later, on the Save button located on the lower right corner of the page.
+18. Siging Out
+It is important to logout of the CMS after having uploaded the required information. To logout follow the below
+mentioned steps.
+Step1: Click on the Hi Creator button located in the top left of the login page.
+Step 2: Later, select the Logout option.
+25
+B. Moderator Activities
+1. To check the contents uploaded by the Creator
+2. To add additional information if necessary to the already existing informtaion
+3. To make correction on finding mistakes in the content uploaded by the creator.
+4. Finally, to forward the content for final apporval to the ‘Approver’
+1. Signing in to the website
+Step 1: Enter the URL/Domain name provided in the address bar
+Step 2: Click on the Login button located on the top right side of the screen.
+Step 3: In the next page
+1- Enter the e-mail id provided.
+2- Enter the password
+3- Later, enter the Captcha
+4- Click the Login button
+Step 4: After entering into the CMS continue the activities.
+2. Uploading Profile
+It is important for users to upload their profiles into the CMS. Users can enter their name, mobile number and
+passwords provided. Users can also change the password. Follow the below mentioned steps to change the password;
+Step 1: Login to the CMS
+Step 2: Later, click on the Hi Moderator button located on the left top corner of the page.
+Step 3: Click on the Profile button in the new page.
+26
+Step 4: In the new page,
+1 Name-Enter your name
+2 email-There is no option to change the e-mail id
+3 Mobile- Enter your mobile number.
+4 User Type –You cannot change the role mentioned here
+5 Password –Enter the new pass password desired. (Read the Password policy)
+6-Click the save button.
+Step 6: On entering correct information a message User Saved Successfully will appear.
+(In case you don’t receive this message it means there are some defects. Repeat the process and set right the mistakes
+if any).
+3. Examining/Editing and Forwarding the content for approval
+Moderator is responsible for examining, editing and forwarding the content created by ‘Creator’ for final approval.
+Step 1: It is important for the Moderator to know that saffron coloured icon appearing in front of various menu
+signifies that the content already being created.
+Step 2: Click on the menu option you wish to check the content.
+Step 3: In the next page moderator will notice another saffron icon
+Step 4: Click on the blue coloured edit buton
+Step 5: In the next page make correction on finding any mistake. Later click on Save or Save Department Settings or
+Save Gallery Category button depending on the corrections made.
+27
+C. Approver/Nodal Officer Responsibilites
+ To examind the content forwarded by the Morderator.
+ To make corrections to the content on finding mistakes.
+ To publish the content provided the information uploaded is correct.
+1. Signing-in to the website
+Step 1: Enter the URL/Domain Name in the Address Bar to open the website.
+Step 2: Later click on the LOGIN button located on the top right corner of the page.
+Step 3: In the next page,
+1-Enter the e-mail provided.
+2-Enter the password.
+3-Enter the Captcha
+4-Click the Login button.
+Step 4: Now you have entered the CMS.
+2. Uploading Profile
+Step 1: Login to the website.
+Step 2: Click on Hi Approver in the next page.
+28
+Step 3: In the next page,
+1 Name-Enter your name
+2 email- There is no option to change the e-mail id.
+3 Mobile- Enter your mobile number
+4 User Type - You cannot change the role mentioned here.
+5 Password - Enter the new pass password desired. (Read the Password policy)
+6- Click the save button.
+3. Examining the content and publishing.
+Step 1: Login to the website.
+Step 2: The blue icons next to the menus notify that the content has been modified.
+Step 3: Click on the menu to make correction and checking the content.
+Step 4: You will find another blue colour icon next to content on the new page.
+Step 5: Click on the blue coloured icon to edit the content.
+Step 6: Later, make corrections to the content on finding mistakes before clicking on the Approve button.
+29
+Step 7: Ensure the status is changed as Approved in the content page.
+D. Creating Credentials
+Step 1: User creditials can be created by using the Admin/Nodal Officer login credentials.
+Step 2: Click on the Hi Admin button from the new page
+Step 3: Click on the User option from the new page.
+Step 4: In the new page, select Edit Button to make changes to already existing information or click on +Add User to
+create new credentials.
+30
+Step 5: In the next page,
+1- Name: Enter the user name or designation.
+2- Email: Enter the e-mail id.
+3- Mobile: Enter the mobile number.
+4- User Type: Click on User Type from the user type creator or moderator
+5- Password: Create the password
+6- Save: Click on the save button.
+(A message User Saved Succesfully will appear)
 31
