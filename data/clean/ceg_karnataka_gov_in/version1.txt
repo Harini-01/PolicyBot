@@ -1,0 +1,1446 @@
+CENTER FOR E-GOVERNANCE
+Website Management
+User Manual
+Guidelines, Responsibilities, Activities, and Methods
+Version: CeG/KRN 1.3
+Karnataka Web Portal Division, Centre for e-Governance, Department of Personnel & Administrative
+Reforms(e-Governance), 2 Floor, B Block, Shantinagar, BMTC-TTMC-Building, Bengaluru-27
+Telephone: 080 22230060
+E-Mail: pd.webportal@karnataka.gov.in/ pm.webportal@karnataka.gov.in
+Table of Contents
+Introduction: .......................................................................................................................................... 6
+Government of India Website Guidelines (G.I.G.W.) 4 ..................................................................... 7
+(Accessibility Guidelines) .................................................................................................................... 14
+Recommendations from the Kannada Abhivrudhi Pradhikara: ....................................................... 17
+Content Management and Approval Policy(CMAP): ........................................................................ 21
+Responsibilities of the e-Governance Center: ................................................................................... 21
+Symbols:............................................................................................................................................... 22
+Nodal Officer: Roles & Responsibilities: ............................................................................................ 23
+Nodal Officer being the Admin has complete control over the website ........................................ 23
+Activity 1: Sign In ............................................................................................................................. 23
+Activity 2: Profile Update ................................................................................................................ 24
+Activity 3: Email and password creation | Change (login id) ........................................................ 25
+Activity 4: Creating Content (as a creator) ..................................................................................... 26
+Admin or nodal officer has the option of creating content. When creating content, content
+must be created through the method of content creator. ........................................................... 26
+Activity 5: Modifying Content ......................................................................................................... 26
+5.1 Send Back if the information is not correct. ........................................................................ 28
+5.2 To Edit if entered information is not correct ....................................................................... 28
+Activity 6: Approver Process (as approver) .................................................................................... 30
+6.1 To Send Back if the entered content is incorrect ................................................................ 32
+6.2 If the content is incorrect, Edit process. ............................................................................... 33
+6.3 Content is accurate and ready for approval. ....................................................................... 34
+Activity 7: Edit | Delete Content...................................................................................................... 34
+Activity 8: User Activities List .......................................................................................................... 35
+Activity 9: To change Password ...................................................................................................... 35
+Activity 10: Log Out ......................................................................................................................... 36
+.................................................................................................................................. 38
+Activity 1: Sign in ................................................................................. Error! Bookmark not defined.
+Activity 2: Update Profile ................................................................................................................ 41
+Activity 3: Create Heading .............................................................................................................. 42
+3.1 Edit Heading .......................................................................................................................... 44
+Activity 5: Creating Navigation Menus .......................................................................................... 51
+5.1.4: Uploading Images in the Editor Box ................................................................................. 62
+Activity 6: Second Level Menu: Page creation and linking ....................................................... 70
+(If another sub menu is to be added, repeat the steps from Step 10 to Step 15) .................. 76
+(If another third level submenu is to be added, repeat the steps from Step 16 to 23) .......... 90
+Activity 7.1: Third Level Menus: Editing ..................................................................................... 90
+Activity 8: Adding Sliders / Change................................................................................................ 93
+Activity 8.1: Editing Sliders .......................................................................................................... 96
+Activity 9: Adding “Latest News” .................................................................................................... 98
+Activity 9.1: Editing “Latest News” ........................................................................................... 102
+Activity 10: Uploading Content in the Info Boxes ....................................................................... 105
+Activity 10.1: Editing Info Boxes ............................................................................................... 109
+Activity 10.2: Create Submenu in the Info Boxes .................................................................... 112
+Activity 10.3: To edit submenus in the Info boxes .................................................................. 120
+Activity 11: Upload Documents .................................................................................................... 123
+Activity 12: Add New Pages ......................................................................................................... 125
+Activity 12.1: Editing New Pages ............................................................................................. 128
+Activity 14: Change Password....................................................................................................... 133
+Activity 15: Log Out ....................................................................................................................... 134
+........................................................................................................................... 135
+Content Moderator ........................................................................................................................... 136
+Activity 1: Sign In ........................................................................................................................... 136
+Activity 2: Update Profile .............................................................................................................. 137
+Activity 3: To Verify ....................................................................................................................... 138
+Activity 4: Change password……………………………………………………………………………………………….…141
+Activity 5: Logout Process ............................................................................................................ 143
+............................................................................................................................. 144
+Content Approver ............................................................................................................................. 145
+Activity 1: Sign In ........................................................................................................................... 145
+Activity 2: Update Profile .............................................................................................................. 146
+Activity 3: Approving Content ...................................................................................................... 147
+Logout from the CMS ................................................................................................................... 153
+Introduction:
+Before reading the CMS user manual, it is essential to understand some information about the
+website guidelines. These are; "Government of India Website Guidelines (G.I.G.W.)”, “Accessibility
+Guidelines” and Recommendations of the “Kannada Abhivrudhi Pradhikara” (Karnataka
+Development Authority)
+Based on these guidelines, the Centre for e-Governance department is responsible for
+developing and hosting the official state government websites by uploading content to the
+websites. Various Departments need to follow these guidelines as they have to upload content
+to the websites.
+As stated in these Guidelines, "Content Management and Approval Policy (CMAP)" is adopted
+for uploading content to the website.
+It consists of three roles and all three roles have to perform different activities. Therefore, it is
+important to understand the guidelines and responsibilities before managing the content of the
+websites. Since the CMS is built by the e-Governance Website Division, there are certain
+responsibilities for the website development and hosting to be followed by the e-Governance
+Centre.
+Government of India Website Guidelines (G.I.G.W.) 4
+Sl.
+No. Guide Lines
+Association to Government is demonstrated by the use of Emblem/Logo,
+1 prominently displayed on the homepage of the website
+Ownership information is displayed on homepage and on all important entry
+2 pages
+Complete and self-explanatory title of the homepage (appearing on the top
+3 bar of the browser) is provided
+4 Website is registered under 'gov.in' or ' nic.in' domain.
+Website provides a prominent link to the 'National Portal' from the Home
+5 page and pages belonging to National Portal load in new browser window
+6 Website has a Copyright Policy, prominently displayed on the homepage.
+Due permission have been obtained for publishing any content protected by
+7 copyright.
+8 Source of all documents, whether reproduced in part or full, is mentioned.
+9 Website has a comprehensive Hyper Linking Policy
+Clear indication are given when a link leads out to a Non-government
+10 website.
+11 The mechanism is in place to check the accuracy of Hyperlinked Content.
+Mechanism is in place to ensure that there are No 'broken links' (internal as
+12 well as external) or 'Page Not found' errors.
+Website has comprehensive Terms and Conditions statements, linked from
+13 all important pages
+Terms & Conditions disclaims responsibility of the content sourced/ linked
+from Non-Government website and clearly indicates whether information
+14 available on the site can be used for legal purposes or Not.
+15 Website has a Privacy Policy linked from all the relevant pages.
+16 All electronic commerce transactions are handled through secure means.
+All information about the department, useful for the citizen and other
+stakeholders, is present in ' About Us' section and mechanism is in place to
+17 keep the information up to date
+18 The complete title of the Scheme is reflected.
+The website provides a complete description of the scheme along with the
+19 procedure for obtaining the associated benefits.
+20 The validity of the scheme has been mentioned.
+21 Self-explanatory title of the services is published.
+The website provides a complete description of the service along with the
+22 procedure to apply for/avail the same.
+The website provides the complete title of the form along with the purpose it
+23 is used for
+24 Language of the Form (other than English) is mentioned clearly.
+The complete title of the Act (as written in the official Notification) is
+25 mentioned.
+26 The complete title of the document is mentioned on the website.
+27 The language of the Document (other than English) is mentioned clearly.
+28 Validity of the document is mentioned.
+29 The official title of the Circular /Notification is mentioned.
+30 Validity of the Circular/ Notification is mentioned.
+Mechanism in place to ensure that all Tender / Recruitment Notices issues by
+31 the Department are published on the website.
+Website provides a complete description of the Tender / Recruitment Notice
+32 along with the procedure to apply for the same
+Mechanism is in place to ensure that information on old / irrelevant Tender /
+33 Recruitment Notices is removed or moved into the archive section
+News / Press releases are displayed along with the date and these are
+34 organized as per the archival policy of the website
+Website has a 'Contact Us' page, linked from the home page and all relevant
+35 places in the website.
+The complete contact details of important functionaries in the Department
+36 are given in the 'Contact Us' section
+Mechanism is in place to ensure that all the Citizen Services, Forms,
+Documents and Schemes are registered with the respective repositories of
+37 the National Portal.
+Mechanism is in place to ensure that all outdated announcements are
+38 removed from the website or moved to archive
+39 All Discussion Forum on the website are moderated.
+For every related link, the complete URL of the Home Page/concerned
+40 webpage is provided.
+Feedback is collected through online forms and mechanism is in place to
+41 ensure timely response to feedback/queries received through the website.
+42 The website has a readily available Help section
+Complete information including title, size(playing time for audio/video),
+format, usage instructions and plug-in to view the file is provided for
+43 downloadable material including documents.
+Mechanism is in place to ensure that all downloadable material is free from
+44 virus.
+Minimum content as prescribed in the guidelines is present on the
+45 homepage.
+Subsequent pages of the website have the minimum content as prescribed in
+46 the guidelines.
+47 Website is free from offensive / discriminatory language.
+48 Content is compiled and packaged with citizen orientation.
+The Department has a Content Contribution, Moderation and Approval
+49 Policy(CMAP) for the Websites.
+Home Page and every important entry page of website displays the last
+50 updated / reviewed date.
+51 Department has a Content Review Policy(CRP) for the website.
+52 All Documents / Reports have a time stamp at least on the main page.
+The Departments have a clearly laid out Content Archival Policy(CAP) for the
+53
+website.
+54 Clear and simple language has been used throughout the website.
+55 The language is free from spelling and grammatical errors.
+Whenever there is a change in the language of a web page it has been
+56 clearly indicated.
+57 Consistency in Nomenclature is maintained across the website.
+All information, which is of direct importance to the citizen, is accessible from
+58 the Homepage.
+59 Information structure and relationship is preserved in all presentation styles.
+60 The meaningful reading sequence is preserved in all presentation styles.
+61 Documents / pages in multiple languages are updated simultaneously.
+Visual/textual identity elements highlighting the Government's ownership of
+62 the website are prominently placed on the page.
+63 A consistent page layout has been maintained throughout the website
+National identity symbols like Flag, National Emblem etc., are in a proper
+64 ratio and colour.
+Hindi/ regional language fonts have been tested on popular browsers for any
+65 inconsistency (loss of layout)
+66 Web Pages allow resizing of text without the use of assistive technology.
+Text is readable both in electronic and print format and the page prints
+67 correctly on an A4 size paper.
+68 There is adequate contrast between text and background colour.
+69 All information is conveyed with colour is also available without colour.
+70 Alternate text is provided for Non text elements(e.g. images).
+Websites provide textual description of audio / video clips and multimedia
+71 presentation.
+72 Caption have been provided for all important audio content.
+Web pages do Not contain any content that flashes for more than three
+73 times in a second.
+74 There is a mechanism to control scrolling, blinking content.
+There is a mechanism to control (stop, pause….) audio that starts
+75 automatically.
+76 All pages on the website have a link to the home page.
+The positioning and terminology used for navigation items and navigation
+77 scheme is consistent across the website.
+78 There are No links to 'under construction' pages.
+Each page is a standalone entity in terms of ownership, navigation and
+79 context of content.
+80 Web pages allow the user to bypass repeated blocks of content.
+Website has either a "search" box or a link to a "search" page from every
+81 page of the website.
+Website has an up to date Site Map that is linked to the Home Page as well
+82 as to all important entry pages of the website.
+83 If the site uses frames, each frame is properly titled.
+84 Website uses Cascading Style sheets to control layouts/styles
+85 Website is readable even when sheets are switched off or Not loaded.
+86 Web pages are usable even when scripts, applets etc. are turned off.
+Documents are provided either in HTML or other accessible formats.
+87 Instruction / Download details for viewing these formats are provided.
+In content implemented using mark-up languages, the elements have been
+88 use according to specification.
+89 Labels have been provided when content requires input from the users.
+Time limit for time dependent web functions can be adjusted by the user (
+90 also refer exceptions).
+Instructions for operating/ understanding content do Not rely solely on
+91 characteristics like shape, size, location etc.
+92 All input errors are flashed in text.
+93 Functionality of content is operable through keyboard.
+Focus is Not trapped in any component while navigating through keyboard
+94 only.
+95 Purpose of each link is clear to the user.
+96 When any component receives focus it does Not initiate change in context.
+Changing the setting of a component does Not change the context unless
+97 the user has been informed of the same.
+Metadata for pages like title, keywords, description and language is
+98 appropriately included.
+99 Data tables have been provided with necessary tags / mark up.
+All components receives focus in an order that preserves the meaning /
+100 operation.
+101 Role of all interface components can be programmatically determined.
+102 The websites have been tested on multiple browsers.
+Websites has cleared Security Audit by certificate agency and has a Security
+103 Policy.
+Websites are accessible to the intended audience in an efficient and secure
+104 manner on 24 x 7 basis.
+The hosting Service Provider possesses state-of-the art multi-tier security
+infrastructure as well as devices such as firewall and intrusion prevention
+105 system.
+The hosting Service Provider has redundant server infrastructure for high
+106 availability.
+107 The hosting service provided performs regular backup of the web site.
+The Hosting Service Provided has a Disaster Recovery (DR) Centre in a
+108 geographically distance location and a well-crafted DR plan for the website.
+Website Hosting Provider provides Helpdesk & Technical support on 24x7x
+109 365 basis.
+All possible secure measures have been taken to prevent defacement/
+hacking of the website and the Department has been contingency plan in
+110 place for situation like these.
+Website ranks in the first five results on major search engines when searched
+111 with relevant keywords.
+It has been ensured that all stationery of the department as well as
+112 advertisements/ public messages issued by the concerned Department
+prominently display the URL of the website.
+Department has Nominated a Web Information Manager as defined in the
+113 guidelines.
+114 The websites has a website monitoring policy.
+115 All policies and plans are approved by Head of Department.
+(Accessibility Guidelines)
+Sl.No GUIDELINES
+All Non-text content (like images) has a text alternative that provides
+1
+equivalent information as the image itself.
+2 Scanned Images of text have Not been used.
+The visual presentation of text and images of text has a contrast ratio of
+3 at least 4.5:1 between the foreground and background. Large scale text
+and images of text have a contrast ratio of 3:1.
+Text can be resized without assistive technology up to 200 percent
+4
+without loss of content or functionality.
+There is a mechanism to pause, stop or hide scrolling, blinking or auto
+5 updating content that starts automatically and lasts for more than 5
+seconds.
+Web pages do Not contain any content that flashes for more than three
+6
+times in a second.
+Instructions provided for understanding and operating content do Not
+7 rely solely on sensory characteristics such as shape, size, visual location,
+orientation, or sound.
+Colour is Not used as the only visual means of conveying information,
+8 indicating an action, prompting a response, or distinguishing a visual
+element.
+Captions or transcript are provided for all pre-recorded and live audio
+9
+and video content.
+For any audio on a Web page that plays automatically for more than 3
+10 seconds, a mechanism is available to pause, stop or control the volume
+of the audio independently by from system volume level.
+Information, structure, and relationships that are conveyed visually on a
+11 web page must also be programmatically determined or are available in
+text.
+When the sequence in which content is presented affects its meaning, a
+12
+correct reading sequence can be programmatically determined.
+All functionality that is available on the web page is operable through
+13
+keyboard.
+Complete web page is navigable using keyboard only (using tab or
+14
+arrow keys).
+Current navigation location (Keyboard focus indicator) is visible on the
+15
+webpage while operating or navigating the page through a keyboard.
+Web pages allow the user to bypass blocks of content like navigation
+16 menus that are repeated on multiple pages (by using the skip to content
+link).
+Any web page within the website is locatable either through “search” or
+17
+a “sitemap”.
+Navigational mechanisms that are repeated across the website occur in
+18
+the same relative order on each page.
+If a webpage can be navigated sequentially and the navigation sequence
+affect the meaning of operation, then all components must receive focus
+19
+in the same meaningful sequence (Creating a logical tab order through
+links, form controls, and objects).
+20 The purpose of each link is clear.
+21 Time limit for time dependent web functions is adjustable by the user.
+Complete & self-explanatory title that describes the topic and purpose
+22
+of the page has been provided.
+23 Headings wherever used, correctly describe topic or purpose of content.
+Language of the complete web page has been indicated. If there is a
+24
+change in language within a webpage it also indicated.
+Nomenclature of components that have the same functionality is
+25
+uniform across the website.
+When any component on the web page receives focus or its settings are
+26
+changed it does Not initiate change in context.
+Changing the setting of any user interface components does Not
+27
+automatically cause a change in context.
+If an input error is detected, the item is identified and the error is
+28 described to the user in text. Suggestions for correction if known are
+provided to the user.
+Labels or instructions have been provided wherever input from the users
+29
+is required.
+For Web pages that cause legal commitments or financial transactions a
+30 mechanism is available for reviewing, confirming, and correcting
+information before finalizing the submission.
+31 Web Page uses mark-up language as per specification.
+Name and Role of all interface components can be programmatically
+32
+determined.
+Recommendations from the Kannada Abhivrudhi Pradhikara:
+1 Only Unicode font must be used in all websites.
+As most of the pages are created using HTML, it is difficult to change the same at
+regular intervals. Hence, CMS’ like wordpress, drupal, joomla etc, which are readily
+available and easy to learn and handle should be used or WAMP based hardcoding
+2 (giving user dashboard facility) and free-efficient CMS can be used to create websites.
+3 All websites should be of uniform design
+These websites should be compatible and responsive with all kind of devices (such as
+4 computer, smartphone, operating systems and other hand held devices)
+The entire website should be in kannada which includes, main pages, subpages, tables
+and even symbols, and must be written in Unicode font. Default page for all websites
+5 must be in kannada and English should be available only as a second option.
+Kannada softwares must be provided in a specified place of the websites, and an
+option to download them should be present. In each and every website, the place to
+6 find these are fixed and compulsory to be provided. (refer: chapter 1.4)
+Sound converter devices for both kannada and English language should be provided
+in specific places.
+7 (link: http://espeak.sourceforge.net/download.html)
+The revamping of all websites should adhere to guidelines as prescribed by central
+8 government.
+All government websites should provide buttons which enable seeking knowledge
+and hyperlink policy should be mentioned in foot writings. (eg: kanaja, etc.) (refer:
+9 chapter 1.4)
+Nudi/phonetic/kprao keyboards should be made available in website itself for easy
+addition of kannada letters in websites. Wikipedia can be taken as example for the
+same
+(link : https://github.com/wikimedia/jquery.ime)
+(kannada software details
+10 :https://github.com/wikimedia/jquery.ime/tree/master/rules/kn)
+Facebook, twitter, youtube, instagram and other Social media links of the respective
+departments should be provided in the website page, and a system to address user
+11
+concerns/complaints expressed through these social media must be set up. And
+management of these must comply with guidelines and framework of central
+government.
+(http://meity.gov.in/ writereaddata/files/Approved%20Social%20Media%20Frame
+work% 20and%20 Guidelines%20_2_.pdf)
+Downloading option for various apps created by government should be facilitated in
+12 these websites.
+Right to information act and citizen charter must be made available either through
+typing in kannada Unicode or readable PDF format. ( this must be informed to
+13 institution which handles the website)
+Every website must have contact links to respective
+14 departments/agencies/boards/corporations. (refer: chapter 2.3)
+Contact links to the websites must be provided along with lists of websites hosted
+15 by www.karnataka.gov.in
+To prevent websites from any sort of hacking, proper security must be put in place,
+16 and measure to maintain secrecy of password and username should be installed.
+17 Open street maps should be used in case websites are using any kind of maps.
+While any government transactions, only official government emails must be used.
+These emails can be created with help of web admin. ( to accesses the facilities given
+18 by Gmail, one can link the official government email to gmail’s inbox)
+The website should be one stop solution to get information about all government
+tenders, notifications, circulars, reports, apps and addresses. (the gov.uk website
+19 which is under development can be used as a reference)
+Website must follow Gi-Gw guidelines.
+20 (link: http://guidelines.gov.in/Compliancematrix/ index)
+Government official emblem should be present in all websites and also download
+21 option of the same must be provided.
+Website’s ownership, copyright, privacy policy, hyperlink policy, complete address,
+legal information must be provided in the footnote. Along with these, uncertainties,
+22 list of kannada softwares/knowledgebases must be provided.
+Department’s name and emblem with department’s jurisdiction must be mentioned in
+23 header in kannada. If necessary English equivalent can be just added in same place.
+24 Providing Contact of government’s main website is a must and should.
+25 Original source for the documents published must be mentioned.
+no button must turn to dead link. hyperlinks must be active at all times and checking
+26 of the same must be done at regular intervals.
+27 The expired documents should be saved in archive.
+28 ‘contact us’ menu must be made available in all main, sub and inner pages.
+The name and size of the file available for download must be mentioned and
+29 importantly it must be free from viruses.
+Government websites must be in uniform design, mainly must have these four points
+1. Header at the top: Here, change of language button, font size change
+altering button, translation, search, social media buttons should be
+there.
+2. Top menu bar: this contains About us, Activities, Projects, Public
+information, contact details, right to information etc.
+3. Side bar to the left: this must contain links pertaining to the website
+4. Footer menu: copyright policy, disclaimer, feedback, security policy,
+hyperlink policy, kannada software information, and others are
+30
+provided.
+31 State government emblems and colours should be official.
+32 The print out of website pages must fit within A4 sheets.
+The text and background colour should be such that, it should be clearly readable
+33 even with black and white print out.
+As per accessibility rules, other than texts, the information such as images,
+34 documents, videos should be made available even in sound format.
+While creating websites along with central government guidelines, Web Content
+Accessibility Guideline should be followed
+35 link: https://www.w3.org/TR/WCAG21
+Control system for audios and videos provided in website must function independent
+of YouTube or similar platforms. Introductory or public awareness videos about the
+departments may be published in YouTube, but rest of all videos must be inside
+36 website only. A copy these independent videos may be published on YouTube.
+37 All pages of the website must have home button
+Most importantly, website must provide search bar for both in kannada and English
+38 language.
+The details of website ownership and its belonging to which department/office must
+39 be mentioned in footer note.
+40 Source of all documents published should be present.
+41 Creative inspection of hyperlinks
+43 Brief information about services and projects with complete name
+44 Security of financial transactions.
+45 Help and map of website.
+46 Recently updated date and time.
+47 Should open in all major browsers.
+48 Should be designed using HTML-5 and change of font size must be an option.
+49 Control of scrolling and blinking.
+50 Uniformity in menu command.
+51 Hiring competent persons for website handling.
+52 Controlling audio and video manuals.
+Content Management and Approval Policy(CMAP):
+As stated in the above guidelines, users must comply with the Content Management and
+Approval Policy when uploading Content to the Website.
+As per the policy, uploading content to a website involves three steps. Namely Creator,
+Moderator and Approver. In addition, for the smooth functioning of the website, one more role
+needs to be assigned. It is called Nodal Officer or Admin. These four stages have their own
+activities. They are described as follows,
+Responsibilities of the e-Governance Center:
+◦ To impart technical training to create, moderate and approve content
+◦ Setting up of “Help Centre” to assist departments
+◦ To provide troubleshooting, updating issues, design and technical assistance
+◦ Centralized system for uploading content to the websites
+◦ Provide security policy by providing SSL Certificate
+◦ Domain registration under Karnataka.gov.in
+◦ Maintenance of server and data centre
+Responsibilities of departments:
+◦ Appointment of a nodal officer as the "sole contact person" between the two
+organizations.
+◦ Appointing suitable persons for content creation, moderation and approval
+◦ Content should be Owned and Maintained by the respective departments only
+◦ Updating Departmental Websites on a regular basis
+◦ Information and content on the website (Kannada and English) must be technically
+readable according to international standards.
+Symbols:
+Used for uploading new content or page on the website.
+“Edit button” to edit content or page that has already
+been uploaded to the site”
+“Delete Button” to delete content or page that has
+already been uploaded to the site.
+Content has just been created.
+Information has just been verified.
+Approved and published the content.
+Share to another Creator to edit content.
+Editing Sub (secondary) menus.
+Editing third level sub menus.
+Adding sub menus.
+Action button to verify or approve content.
+Viewing information on pages created on a website
+obtaining information on activities in the dashboard.
+Nodal Officer: Roles & Responsibilities:
+Nodal Officer being the Admin has complete control over the website
+◦ Sole contact person for the department and the website
+◦ Can also become Creator, Moderator and Approver
+◦ If Admin (Nodal Officer) creates content, that content will become live directly.
+No need of modification and approvals required
+◦ Have unique login credentials
+◦ Admin’s dashboard has complete record of information like those who have
+logged in to CMS, their like login activities, time, date, computer IP, etc.
+Activity 1: Sign In
+Nodal Officers must follow these steps to login to CMS.
+Step 1: Enter the given website URL in the browser to open the website
+Step 2: Click on Sign in
+button inside the website
+Step 3: Enter your created or given email Id, password, and captcha and click on Sign in
+button
+Activity 2: Profile Update
+Step 1: Log in to Website
+Step 2: After login click on down arrow button and select Profile button.
+Step3: Fill all the necessary fields mandatory (fields having red stars), click on Submit button
+Step4: After clicking Submit button, you will see confirmation message, “Success! Profile
+Updated Successfully”. If there is no confirmation message as such, you should try again and fix
+the error.
+NOTE: If you need to change an already updated profile, repeat above mentioned procedure.
+Activity 3: Email and password creation | Change (login id)
+The Nodal Officer or Admin is responsible for creating the Login ID and Passwords for the
+Content Creator, Moderator and Approver.
+Step 1: Log in to website
+Step 2: In the functional menu select Manage User
+Step 3: Select User menu. After click on Add new button in the newly opened dashboard.
+Step 4: In the newly opened page, fill Name or Designation, e-Mail, and password.
+Select responsibility in the Select Role section. Click on Submit button
+Click on Submit button
+NOTE: It is mandatory to fill in the spaces containing the red star.
+3.1 Edit or delete email (login IDs)
+If the login id is not required or needs to be changed, follow these steps:
+Step 1: Sign in to the website
+Step 2: In the functional menu, select Manage User menu
+Step 3: Select User menu.
+Step 4: Now you have to click on the Edit (1) or Delete (2) button next to their email to edit or
+delete the email.
+Activity 4: Creating Content (as a creator)
+Admin or nodal officer has the option of creating content. When creating content, content must
+be created through the method of content creator.
+Activity 5: Modifying Content
+Admin or nodal officer has the option of modifying content. The following steps should be
+followed.
+Step 1: Sign in to the website.
+Step 2: After Sign in, click on Verify List button in the dashboard.
+(Note: You must know what information you intend to verify.)
+After the dashboard opens, remember to verify,
+ Verify contents of name column
+ verify information in “Tittle/Heading” column
+ For “Content / Link / Image” Check,
+If there are images, they are superficially visible.
+If the link is provided, to check whether the document matches the link, one must click
+upon the same link.
+If you create a page and provide the content, and you want to verify the content on that page,
+click on the eye shaped-blue button in the dashboard.
+Step 3: On the dashboard that pops up after clicking on the Verify List button, click on the
+square button with the blue right mark next to the information you want to verify.
+(NOTE: The information that needs to be verified is in blue. If it is in green, it is already verified.)
+The verification process involves three activities.
+5.1 Send Back if the information is not correct.
+Enter the reason for send back in the Message section and press the send back button
+5.2 To Edit if entered information is not correct
+If you want to edit the information yourself,
+Click on the Edit button in the saffron colour.
+Correct the mistakes in the opened page, Select Approver in the drop down, and click on Submit
+button
+To confirm Approver Name, click on “Yes, Create.”
+Once again click on Submit button, “Success! Data Updated Successfully” will appear on the
+screen.
+(Note: If “Success! Data Updated Successfully” doesn’t appear, it means that you have entered
+error information)
+5.3 Sending content for approval.
+If the content sent by creator is correct in all respects, it should be sent for approval,
+Click on Select Approver in the drop-down menu
+Below, click or drag the two circular buttons to the right
+To authenticate Approver name, click on Yes. Create!
+Again, click Submit button, confirmation message appears “Success! as Data Updated
+Successfully”.
+(Note: If “Success! Data Updated Successfully” doesn’t appear, it means that you have entered
+error information)
+Activity 6: Approver Process (as approver)
+Admin or nodal officer has the option of approving the content. The following steps should be
+followed
+Step 1: Sign in to the website
+Step 2: After Sign in, click on the Approve List in the dashboard opened
+(Note: You must know what content you intend to approve)
+After the dashboard opens
+ Check contents of name column
+ Check information in “Tittle/Heading” column
+ For “Content / Link / Image” Check,
+If there are images, they are superficially visible.
+If the link is provided, to check whether the document matches the link, one must click
+upon the same link.
+If you create a page and provide the content, and you want to verify the content on that
+page, click on the eye shaped-blue button in the dashboard.
+(later, once the information page is open, one must check if both kannada and English meets
+required standard and then close the window, only then one can proceed further.)
+To approve content, click on the blue mark square button.
+The verification process involves three steps.
+6.1 To Send Back if the entered content is incorrect
+To Send Back, if the content is incorrect for approval, there is an option to send back, the below
+steps are to be taken to do the same,
+When a dashboard is opened after clicking blue coloured button, Enter the reason for send back
+in the Message section and press the green coloured send back button
+6.2 If the content is incorrect, Edit process.
+if the approver himself/herself wants to edit or change the content, that has come for approval,
+following steps should be followed.
+After clicking on the blue right mark button, click on the Saffron coloured edit button in
+another dashboard that opens.
+After click on Edit, correct the errors in the content and click on Submit button
+.
+After clicking on Submit button. the validating message is displayed as “Success! Data Updated
+and Approved Successfully!”
+(NOTE: If this message “Success! Data Updated and Approved Successfully!” doesn’t appear,
+indicates that you have entered wrong content)
+6.3 Content is accurate and ready for approval.
+To approve the content if it is fit for approval,
+Step 1: Click on the blue coloured square button in the dashboard
+Step 2: Click or drag the circular button to confirm verification
+“Success! Data Updated and Approved Successfully!”- authentication message should appear on
+the dashboard.
+If this message “Success! Data Updated and Approved Successfully!” doesn’t appear, it indicates
+that you have entered wrong content
+Activity 7: Edit | Delete Content
+Steps to be followed to edit/ delete unwanted content in the website
+Step 1: Log in to the website
+Step 2: Select Delete in the functional menu
+Step3: To delete, click on saffron coloured delete (4) button
+Step4: To edit, click on orange coloured edit (3) button
+Correct the mistakes after clicking the edit button, and click on Submit button
+Activity 8: User Activities List
+The login details of each person visited by the CMS (website) and the computer ID, time and
+dates used by the activities are recorded on the admin's dashboard.
+1. Select User Login Activities to review the Creator and overall activities
+2. To verify Moderator activities, select Moderator Activities
+3. To verify Approver activities, select Approver Activities
+Activity 9: To change Password
+Initially, Web Portal team would have given dummy email and password to Nodal officers. It is
+mandatory to change the email and password for the Nodal Officers
+Step 1: Log in to the website by using given dummy email and password
+Step 2: Click on Settings in the functional menu
+Step 3: Select Reset Password
+Click on Reset Password in the new page, enter password and confirm password
+(Before proceeding further, read Password Policy)
+Activity 10: Log Out
+After successfully carrying out all activities, to log out from the CMS, click on profile and then
+logout, as shown in image below.
+Center for e-Governance (CeG) provides three levels of user accounts – 1) Content Creator, 2)
+Content Moderator and 3) Content Approver - to each department
+Departments follow the Content Management and Approval Policy (CMAP) when uploading
+information to the website. Under CMAP policy, the nodal officers are given the responsibility of
+assigning 3 roles based on the guidelines, in their respective departments, namely 1) Content
+Creator, 2) Moderator and 3) Approver.
+CMAP POLICY
+1) Content Creator: prepares the information needed for the website in the initial stage.
+2) Moderator: will review that content, amend wherever necessary and send it for approval to
+the Content Approver.
+3) Approver: Information is published on the website only after the content is approved by the
+Content Approver. The Nodal Officers have the power to regulate the system.
+Activity 1: Sign in
+Content Creator can log in to the website using the login credentials like Email and Password
+given by the Nodal officer to edit and upload the content.
+Steps to login
+Step 1: Click on Sign in button
+inside the website
+Step 2: In the newly opened page, enter login credentials like Email, Password and Captcha and
+click on Sign In
+After successful sign in, Content Creator Dashboard opens. In the left hand side, Content Creator
+can create/ edit content using the functional menu in the left hand corner
+1.1: Forgot Password
+To re access the account in case one forgets the password, follow the procedure below;
+Step1: open the website and click on sign in
+Step 2: click on forgot password, in the newly opened dashboard
+Step3: In the newly opened dashboard,
+ In Email Id field, fill email that have been provided at time of PROFILE UPDATE.
+ Enter Mobile Number given at time of profile update, in field mentioning “enter mobile
+number associated with the Email ID
+ Enter OTP received through registered phone number.
+ In place of password, enter new password
+(kindly read through password policy)
+Step4: click on the blue coloured submit button
+Activity 2: Update Profile
+It is mandatory for every user to update profile in the website.
+Steps to update profile
+Step 1: Sign in to the website
+Step 2: After Sign in, click on the downward arrow mark in the dashboard and click on Profile
+Step 3: After clicking on Profile button, fill out all the necessary blank fields with star sign and
+click on Submit button
+After pressing the blue coloured Submit button, “Success! Profile Updated Successfully!” Will
+appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 3: Create Heading
+Heading is the most important part of a website. It bears the name and owner of the website.
+Steps to be followed to create/ edit Heading
+Step 1: Log in/ Sign in to the website.
+Step 2: Click on the Header Logo button that opens in the functional menu of the creator
+dashboard.
+Step 3: Click on “Add Department Name” button.
+Step 4: Click on “Add New” button in the newly opened dashboard
+Step 5: After clicking on the blue coloured Add New button the below page opens
+Kannada Content
+ *Name: Add website name in Kannada
+ *Title: Add website title in Kannada
+English Content
+ *Name: Add website name in English
+ *Tittle: Add website title in English
+
+(NOTE: Content must be provided simultaneously in Kannada and English, and must be filled
+in spaces having red star)
+Step 6: Click on Select Moderator to select your Moderator
+Step 7: In the newly opened page, Confirm Moderator Name that appears
+• If your choice about Moderator is correct, Yes, Create! Click on the red button (if your choice is
+wrong, click on the grey button, No, Cancel Please!
+Step 8: Then, click on the Submit button in blue
+Step 9: After clicking on the blue Submit Button, “Success! Data Added Successfully!”- A
+confirmation message will appear and the status column will have a saffron coloured right mark.
+.
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates that you
+have done errors in the content)
+3.1 Edit Heading
+If you have any errors in your existing heading or need to change it, follow these steps to edit.
+Step 1: Log in/Sign in the website
+Step 2: Click on the Header Logo button in the Functional menus on the Creator Dashboard.
+Step 3: After selecting Add Department Name, the following dashboard will open.
+Step 4: Click on the saffron colour Action (Pencil mark) button, if you wish to edit content.
+Step 5: Correct the content mistakes in the newly opened page and click on blue colour Submit
+button.
+After clicking the blue submit button, “Success! Data Added Successfully!” A confirmation
+message will appear and the bottom part of the screen. Status will have a saffron coloured right
+mark.
+(NOTE: While editing any content, there is no moderator option, because it is assigned to the
+moderator who have already been chosen initially)
+Activity 4: Adding Logo
+To upload logo, following steps to be followed
+Step 1: Log in/ Sign in to the website
+Step 2: Click on the Header Logo button in the functional menus on the Creator Dashboard
+Step 3: Click on “Add Dept.” button.
+Step 4: after clicking on Add dept logo button, a new dashboard will open having add new
+button, click on the same.
+Step 5: Then the following page opens.
+Kannada Content Section
+ *Name: Add website name in Kannada
+ *Tittle: Add website title in Kannada
+ Browse: click on Browse to select logo
+(Note: Notice Image size)
+English Content Section
+ *Name: Add website name in english
+ *Tittle: Add website title in english
+ Browse: click on Browse to select logo
+(Note: Notice Image size)
+Note: If the logo is the same, you can upload the same in both Kannada and English section
+(NOTE: Content must be provided simultaneously both in Kannada and English and must be
+mandatorily filled in fields with red star.)
+Step 6: Click on Select Moderator you need to select your moderator.
+Step 7: On the page that appears, you will be asked a question Confirm Moderator Name:
+Step 8: If your choice about Moderator is correct, “yes, Create!” Click on the red button (if your
+choice is wrong, click the grey button “No, Cancel Please!”). Then make the right choice and
+proceed)
+Step 9: Then, click on the blue colour Submit button
+(NOTE: Content must be provided simultaneously in Kannada and English and must be filled
+compulsory in by red-coloured spaces.)
+Step 10: after Clicking on the blue colour submit button, confirmation message “Success! Data
+Added Successfully!” will be visible and the lower part of the Status has a saffron colour mark
+and the uploaded image is visible separately both in Kannada and English.
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates that you
+have done errors in the content)
+4.1: Editing logo
+If you have a logo error that needs to be edited or to be replaced, follow these steps to edit it.
+Step 1: Log in/ Sing in to the website
+Step 2: Click on the Header Logo button in the functional menus on the Creator Dashboard
+Step 3: Click Add Dept. Logo
+Step 4: After clicking on Add Dept. Logo button, in the opened dashboard
+Click on the saffron colour Action (Pencil mark) button if you wish to edit content.
+Step 5: Then Correct the incorrect content and click on the blue colour Submit button.
+Step 6: After clicking the blue submit button, “Success! Data Added Successfully!” A
+confirmation message is visible and the lower part of the Status has a saffron colour mark and
+the uploaded image is visible exclusively both in Kannada and English.
+(NOTE: When editing any content, there is no moderator option, because it is assigned to the
+selected moderator when creating the editing content.)
+Activity 5: Creating Navigation Menus
+The menus at the top of the website are called navigation menus
+For example, "Home Page", "Department Statistics", "Purchase", "Right to Information ...."
+These menus are currently classified into three types of menus.
+5.1: Primary Menu:
+Adding Page/ Adding Link/ Edit Link
+The primary menu is the creation of a menu and providing information or links to it.
+For creating primary menu, following steps to be followed,
+Step 1: Sign in to website.
+Step 2: In the functional menus, select Add menu.
+Step 3: After selecting the Add menu, click the Add New button in the dashboard
+Step 4: After selecting Add New, in the newly opened page,
+5.1.1: Adding Content
+In Kannada Content
+ In Name field, the menu name must be entered in Kannada. (this will be your
+heading of the page)
+ Link (Default #) make no changes here.
+ In the Editor Box, add Kannada content either by typing or copy paste. (Content
+in Kannada must be in Unicode only)
+In English Content
+ In the Name menu, the menu name must be entered in English Name Link
+(Default #) make no changes here
+ In the Editor Box, add English content either by typing or copy paste.
+(Note: Kannada and English content must be uploaded simultaneously)
+Select Moderator in the Select Moderator section.
+In the Moderator Authentication Dashboard that opens, select “Yes. Create!” Click the button.
+Then click on the blue colour submit button
+Then on the confirmation dashboard of the page that opens, Click on the red coloured Yes.
+Create!
+Then, confirmation message appears as, “Success! Data Added Successfully!”
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates
+that you have done errors in the content)
+5.1.2: To add links directly in menu (only one)
+Step 1: Sign in to the website.
+Step 2: In the functional menu, select Add Menu.
+Step 3: After selecting Add Menu in the opened dashboard, click on Add New Add Menu
+Step 4: After selecting Add New, in the newly opened page
+In Kannada Content
+ In Name, the menu name must be given in Kannada.
+ Remove the "#" in the link (Default #) and paste the URL here.
+ (Click on the saffron coloured “Select File” button to Link button to copy the URL
+of the documents uploaded to the server)
+Click on the blue button below the Copy link and close it to copy any document link in the
+dashboard that opens.
+don’t provide any information in the Editor Box
+similarly, In English Content
+ In Name, the menu name must be given in English.
+ Remove the "#" in the link (Default #) and paste the URL here.
+ (Click on the Select File to Link button to copy the URL of the documents
+uploaded to the server)
+Then click on the blue button under Copy Link and close the dashboard.
+Step 6: Click on blue colour Submit button
+Step 7: Then on the page creation confirmation dashboard that opens, click on red button “Yes.
+Create! “
+You will get this confirmation message, Success! Data Added Successfully!
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates that you
+have done errors at your end)
+5.1.4: Uploading Images in the Editor Box
+To upload an image or two images (for example, see the image above) in an information page
+or editor box, follow these steps:
+Step 1: Sign in to the website
+Step 2: Click on Upload PDF\Image\CSV File in the functional menus
+Step 3: In the newly opened dashboard, click on the Add New button
+Step 4: Then, in the newly opened page
+*Name: Add name of single or multiple images
+*Short Description: Add image short description
+Select folder Name: Select folder if you have only created a folder
+Browse: Click on Browse to upload images
+Note: By clicking on Browse, you can upload up to 1 to 100 images at a time
+Step 5: Then, click on blue colour Submit button
+Note: By clicking submit, you have uploaded the images to the server. Now, to link the images
+to the website do as following:
+Step 6: Open the editor box where you wish to upload the image
+Step 7: In the opened Editor Box
+Step 8: Select File to Link saffron colour button
+Step 9: In the newly opened dashboard, to copy the link of the image you wish to upload, click
+on the blue coloured button, then close the dashboard.
+Step 10: Create a table in the existing editor box
+• choose the cell in the table in which you want to upload a photo, then click on that cell
+• when you right click on the cell, the pop up menu will appear, and select “IMAGE” in
+the same.
+Step11: In the newly opened dashboard
+ In Source - paste the copied URL from Select File to Link
+ In Image description - give a brief description if necessary
+ In Dimension - enter the required length and breadth for the image
+ Then, click on blue colour Submit button
+Step 12: The image you uploaded appears in the Editor Box
+Note: If you need to upload another photo now, follow the steps from Steps 8 to 10:
+Content should be uploaded in the Kannada Content and English Content section.
+Step 11: Click on Select Moderator in the Select Moderator section, in the newly opened
+Moderator confirmation dropdown, if your choice is correct, click on the red button, “Yes,
+Create! “
+Step 12 : Click on blue colour “Submit” button
+Step 13: In the newly opened confirmation dashboard, click on red colour “Yes. Create! “button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates that you
+have done errors in the content)
+5.2: Editing menu details
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: After selecting Add Menu, in the newly opened dashboard, select the menu you wish to
+edit, under the action menu, select the orange coloured pencil button
+Step 4: After correcting the mistakes in the newly opened page
+Step 5: Click on blue coloured Submit button
+Step 6: Then, after you edited, “Success! Data Added Successfully!” The confirmation message
+appears
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 6: Second Level Menu: Page creation and linking
+When sub menus are inserted into a menu it is called a secondary level menu.
+Steps to follow
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: After selecting Add Menu, in the newly opened dashboard, click Add New
+Step 4: After clicking Add New, in the newly opened page
+In the Kannada Content section
+1. *Name: Add menu name in Kannada
+2. *Link (Default #): Make no changes
+3. *Editor Box: No content should be added
+In the English Content section
+1. *Name: Add menu name in English.
+2. *Link (Default #): Make no changes
+3. *Editor Box: No content should be added
+Step 5: Click on Select Moderator in the Select Moderator section
+Step 6: In the newly opened Moderator confirmation dropdown, if your choice is correct, click
+on the red button, “Yes, Create!”
+Step 7: Click on blue colour Submit button
+Step 8: In the newly opened confirmation dashboard, click on red color Yes. Create! button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+The menu that is created now needs to be approved first,
+Step 9: Click on Add Menu again
+Step 10: In the dashboard that opens, in the bottom of the menu, where the sub menus need to
+be inserted click on green colour “Add Sub Menu” button
+Step 11: In the newly opened page,
+In the Kannada Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in Kannada language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+In the English Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in English language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+(Instructions;
+1: If you need to link, no content should be uploaded in the editor box
+2: If the information is to be uploaded in the editor box, the link (Default #) must be left intact)
+Step 12: Click Select Moderator in the Moderator section
+Step 13: If your choice is correct in the Moderator Confirmation, then click on the red color
+button Yes, Create!
+Step 14: Then, click on the blue colour Submit button
+.
+Step 15: In the newly opened confirmation dashboard, click on red colour Yes. Create! button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+(If another sub menu is to be added, repeat the steps from Step 10 to Step 15)
+Activity 6.1: Secondary Level Menu: Editing:
+If content is to be edited in the already created secondary level menus, these steps should be
+followed.
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: In the Dashboard that opens, click the Show Sub Menu List button at the top. After that,
+the main menus and sub menus list opens
+Step 4: When you want to edit any sub menu, click on the Edit button with the saffron coloured
+pencil mark in front of it.
+Step 5: Then, correct the mistakes in the newly opened page
+Step 6: Click on Submit button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 7: Level Menu: Page creation and linking
+If submenu is re-applied to sub menu, they are called tertiary level menus. If you need to create
+menus like this, the steps to be followed are:
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: After selecting Add Menu, in the newly opened dashboard, click Add New
+Step 4: After clicking Add New, in the newly opened page
+In the Kannada Content section
+*Name: Add menu name in Kannada
+*Link (Default #): Make no changes
+*Editor Box: No content should be added
+In the English Content Section
+* Name: Add menu name in English.
+*Link (Default #): Make no changes
+*Editor Box: No content should be added
+Step 5: Click on Select Moderator in the Select Moderator section
+Step 6: In the newly opened Moderator confirmation dropdown, if your choice is correct, click
+on the red button, Yes, Create!
+Step 7: Click on blue colour Submit button
+Step 8: In the newly opened confirmation dashboard, click on red colour Yes. Create! button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Now that you have created a menu, you should create a sub menu for the same menu.
+Step 10: Again, click on Add Menu
+Step 11: Click the Add sub menu to create a sub menu for the third menu, for which menu you
+want to create
+Step 12: In the newly opened page,
+In the kannada content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in Kannada language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+In the English Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in English language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+Step 12: Click Select Moderator in the Moderator section
+Step 13: If your choice is correct in the Moderator Confirmation, then click on the red colour
+button “Yes, Create!”
+Step 14: Then, click on the blue colour Submit button.
+Step 15: In the newly opened confirmation dashboard, click on red color Yes. Create! button
+After, confirmation message Success ! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+The second level menu that has just been created need to be approved, then
+Step16: Again, click on Add Menu
+Step 17: In the Dashboard that opens, click the Show Sub Menu List button at the top. After
+that, the main menus and sub menus list opens.
+Step 18: In the Dashboard that opens, click the Add Sub Menu button in the front of the menu
+for which sub-menu you want to create a third menu.
+Step19: in the newly opened page,
+In the Kannada Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in Kannada language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+In the English Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in English language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+(Instruction1: If you need to link, no content should be uploaded in the editor box
+2: If the information is to be uploaded in the editor box, the link (Default #) must be left intact
+Step 20: Click Select Moderator in the Moderator section
+Step 21: If your choice is correct in the Moderator Confirmation, then click on the red colour
+button “Yes, Create!”
+Step 22: Then, click on the blue colour Submit button.
+Step 23: In the newly opened confirmation dashboard, click on red colour Yes. Create! Button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+(If another third level submenu is to be added, repeat the steps from Step 16 to 23)
+Activity 7.1: Third Level Menus: Editing
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: Then, Click on the blue coloured Show The Third Level Menu List in the dashboard
+Step 4: When you want to edit any Third Level menu, click on the Edit button with the saffron
+coloured pencil mark in front of it.
+Step 5: Correct the errors in the opened page
+Step 6: Then, click on blue colour Submit button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+Activity 8: Adding Sliders / Change
+This banner photo on the website is called Sliders. If you need to make changes or upload new
+photos, follow these steps below
+Step 1: Sign in to the website
+Step 2: Select Add Slider in the functional menu
+Step 3: Then, Click on Add New button in the dashboard
+Step 4: In the newly opened dashboard
+*Name: Write Image name in Image section in either Kannada or English
+*Heading: Write Heading name in Heading section in either Kannada or English
+Content: Write caption for image if necessary (not mandatory)
+External Link(Optional): If you want to provide hyper link to the image add in URL (not
+mandatory)
+Step 5: Click Browse and select Image
+(Note: Note Image size: not more than width: 1450px and height: 300 px)
+Step 6: After selecting image, Select Moderator in the Select Moderator section
+Step 7: In the newly opened confirmation dashboard, click on red colour “Yes. Create!” button
+Click on blue colour Submit button.
+Step 8: In the newly opened confirmation dashboard, click on red colour Yes. Create! Button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Step 9: The image uploaded will be shown at the bottom of slider details dashboard page.
+Confirm the same.
+Activity 8.1: Editing Sliders
+Step 1: Sign in to the website
+Step 2: Select Add Menu in the functional menus
+Step 3: When you want to edit any image, click on the Edit button with the saffron coloured
+pencil mark in front of it.
+Step 4: Correct the errors in the newly opened dashboard
+Step 5: Then, click on blue colour Submit button
+After, confirmation message “Success! Data Added Successfully!” will appear on the screen
+Activity 9: Adding “Latest News”
+Information that is scrolling is called latest news. To create Latest News, follow these steps.
+Step 1: Sign in to the website
+Step 2: Select Latest News in the functional menus
+Step 3: Click on the blue colour Add New button in the newly opened dashboard
+Step 4: In the newly opened page
+In the Kannada Content section
+*content to be displayed: content that needs to be displayed as latest news must be entered
+here in KANNADA
+*Link (Default #): If you want create hyperlink, remove the # button and paste the URL
+*Editor Box: Type the content that is required to create the page in Kannada
+In the English Content section
+*content to be displayed: content that needs to be displayed as latest news must be entered
+here in ENGLISH
+*Link (Default #): If you want create hyperlink, remove the # button and paste the URL
+*Editor Box: Type the content that is required to create the page in Kannada
+(Instructions
+1: If you need to link, no content should be uploaded in the editor box
+2: If the information is to be uploaded in the editor box, the link (Default #) must be left intact
+Step 5: * Click Select Moderator in the Moderator section
+Step 6: If your choice is correct in the Moderator Confirmation, then click on the red colour
+button Yes, Create!
+Step 7: Then, click on the blue color Submit button
+Step 8: In the newly opened confirmation dashboard, click on red color Yes. Create! button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 9.1: Editing “Latest News”
+Step 1: Sign in to the website
+Step 2: Select Add Latest News in the functional menus
+Step 3: When you want to edit any content, click on the Edit button with the saffron coloured
+pencil mark in front of it.
+Step 4: Correct the mistakes in the opened page
+Step 5: Click on blue colour Submit button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+Activity 10: Uploading Content in the Info Boxes
+"Introduction", "Services and Projects" "Online Services" and "Departmental Records" sections in
+the website are called Info boxes.
+To upload content inside the info boxes, these steps to be followed
+Step 1: Sign in to the website
+Step 2: In the functional menu, click on info Box and select the info box you wish to add content
+Step 3: In the selected Info box, click on blue colour Add New Button in the opened dashboard
+Steps 4: Steps to be followed in the opened page
+In the Kannada Content section
+* Name: the name of the menu should be written in kannada.
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type or copy paste the content that’s required to create new page, when clicked on
+the menu.
+In the English Content section
+* Name: the name of the menu should be written in English
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type or copy paste the content that’s required to create new page, when clicked on
+the menu.
+(Instruction1: If you need to link, no content should be uploaded in the editor box
+2: If the information is to be uploaded in the editor box, the link (Default #) must be left intact)
+(NOTE: if the link is provided to the menu, the VISIT in dashboard right beside the menu name,
+will be shown in blue or else will be shown in grey)
+Step 5: * Click Select Moderator in the Moderator section
+.
+Step 6: If your choice is correct in the Moderator Confirmation, then click on the red color
+button “Yes, Create!”
+Step 7: Then, click on the blue colour Submit button
+Step 8: In the newly opened confirmation dashboard, click on red colour “Yes. Create!” button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 10.1: Editing Info Boxes
+To edit the content in the Info boxes, these are the steps to be followed
+Step 1: Sign in to the website.
+Step 2:
+In the functional menu, click on info Box and select the info box you wish to edit content
+Step 3: In the selected Info box, click on blue colour Add New Button in the opened dashboard
+Step 4: then, correct the errors in the new page
+Step 5: Click on blue colour Submit button after editing the errors
+After, confirmation message Success! Data Added Successfully! will appear on the screen.
+Activity 10.2: Create Submenu in the Info Boxes
+If you need to add any information to Info Boxes menus to sub menus, follow these steps.
+Step 1: Sign in to the website
+Step 2: Select Info box in the functional menus by clicking on the info box you wish to upload
+Step 3: After selecting the info box, click on the blue colour Add New button
+Step 4: Steps to follow on the page that opens
+In the Kannada Content section
+*Name: Add menu name in Kannada
+*Link (Default #): Make no changes
+*Editor Box: No content should be added
+In the English Content section
+*Name: Add menu name in English.
+*Link (Default #): Make no changes
+*Editor Box: No content should be added
+Step 5: Click on Select Moderator in the Select Moderator section
+Step 6: In the newly opened Moderator confirmation dropdown, if your choice is correct, click
+on the red button, Yes, Create!
+Step 7: Click on blue colour Submit button.
+Step 8: In the newly opened confirmation dashboard, click on red colour Yes. Create! button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Now you can create sub menus only after the submit menu has been Approved.
+Follow the steps below to create sub menus
+Step 9: Select Info box in the functional menus by clicking on the info box you wish to upload
+Step 10: Click the Add Sub Menu button next to the menu to create a sub-menu for any menu
+in the dashboard that opens after you select Info Box.
+Step 11: Follow these steps in the newly opened page
+In the Kannada Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in Kannada language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+In the English Content section
+*Main Menu Name: Make no changes
+*Sub Menu: Add sub menu name in English language
+*Link (Default #): If you want link, remove the # button and paste the URL,
+*Editor Box: Type the required content or copy paste
+(Instruction
+1: If you need to link, no content should be uploaded in the editor box
+2: If the information is to be uploaded in the editor box, the link (Default #) must be left intact
+Step 12: Click Select Moderator in the Moderator section
+Step 13: If your choice is correct in the Moderator Confirmation, then click on the red color
+button Yes, Create!
+Step 14: Then, click on blue colour Submit button
+Step 15: In the newly opened confirmation dashboard, click on red colour Yes. Create! button.
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+(For creating additional Sub Menus, repeat the steps from 10 to 15)
+Activity 10.3: To edit submenus in the Info boxes
+Step1: Sign in on the website
+Step 2: Select Info box in the functional menus by clicking on the info box you wish to edit
+Step 3: Then, click on blue colour Show Sub Menu List button in the newly opened dashboard
+Step 4: When you want to edit any sub menu, click on the Edit button with the saffron coloured
+pencil mark in front of it
+Step 5: Correct the errors in the newly opened page
+Step 6: Then, click on the blue colour Submit button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+Activity 11: Upload Documents
+If you need to upload any documents to the website, you must first upload them to the server.
+Follow these steps below
+Step 1: Sign in to the website.
+Step 2: Select Upload pdf /image/csv file in the functional menu
+Step 3: Click on the blue colour Add New button
+Step 4: Then, in the newly opened page
+* Name: enter the name of the record / document you want to upload in Kannada or
+English
+* Short Description: enter a brief description of the documents / documents you need
+to upload in Kannada or English.
+* Browse: upload the document / documents you want to upload
+Step 5: Then, click on blue colour Submit button
+After, confirmation message Success! Data Added Successfully ! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Note: Thus, the URL of the documents uploaded to the server is available in the “Select file to
+link on the page that appears on each page”
+Activity 12: Add New Pages
+While the selection of menus is sometimes limited on a website, people can create additional
+pages and hyperlink.
+To add new pages, follow these steps below
+Step 1: Sign in to the website
+Step 2: Select Add New Pages (Link Page) in the functional menus
+Step 3: In the newly opened dashboard, click on Add New button
+Step 4: Then, in the newly opened page
+Kannada Content
+*Name: Add page name in Kannada only
+*Link (Default #): Leave as it is
+*Editor Box: Add required content in the Editor Box in Kannada
+English Content
+*Name: Add page name in English only
+*Link (Default #): Leave as it is
+*Editor Box: Add required content in the Editor Box in English
+(Note: Kannada and English Content must be uploaded simultaneously)
+Step 5: Click on blue colour Submit button
+Step 6: In the newly opened confirmation dashboard, click on red colour Yes. Create! button
+Step 7: After, confirmation message Success! Data Added Successfully! will appear on the
+screen
+Step 8: Then two URLs of Kannada and English page are generated in the same dashboard.
+You can copy the generated URLs and use them on the website.
+12.1: Editing New Pages
+The following steps should be followed to edit the pages created.
+Step 1: Sign in to the website
+Step 2: Select Add New Pages (Link Page) in the dashboard
+Step 3: in the adjacent dashboard, decide the already created page that you wish to edit and
+click a pencil shaped saffron button provided in front of the page link.
+step 4: then make the desired changes
+Step 5: then click submit button once changes are done.
+Step 6: a confirmation message will be displayed as shown in image below
+(if you don’t get the confirmation message, then you have done error in content)
+Note: if you have edited content in aforementioned way, you need not copy paste as the file
+would have been updated in the website.
+Activity 13: Creating an Image gallery/ Video gallery
+If an image gallery is to be created on a website, those images must be installed to the server
+first.
+The image gallery opens if you copy the generated URL and paste it into the desired page.
+Steps to follow
+Step 1: Sign in to the website
+Step 2: Select Upload Image Gallery in the functional menus
+Step 3: Click on blue colour Add New button in the newly opened dashboard
+Step 4: Then, in the newly opened page
+*Name in Kannada: The name of the photo gallery needs to be given in Kannada
+*Name in English: The name of the photo gallery needs to be given in English
+Select photos to be uploaded to the website by clicking Browse
+Step 5: Click on blue colour Submit button
+Step 6: After Submit, copy the generated Kannada and English link (URL) and paste it on the
+required page
+Activity 14: Change Password
+If the creator has to change the email and passwords issued by the nodal authorities, the
+following steps should be followed.
+Step 1: Sign in to the website using the dummy email and password
+Step 2: In the functional menu, select Settings and click on Reset Password button
+Step 3: In the newly opened dashboard, enter your new password and click on red colour Reset
+password button
+Then, you will see password change confirmation message, Success! Password Reset Successfully
+will appear on the screen
+Activity 15: Log Out
+After successfully carrying out all the activates, steps to Sign out from the CMS
+Step 1: Click on the arrow mark under the profile in the dashboard
+Step 2: Click on Logout to successfully logout from the CMS
+Content Moderator
+It is the responsibility of the moderator to send the content uploaded by the Creator for review
+and approval.
+Moderator will send content for publishing if it is free from errors, or make edits in the existing
+content for approval or send it back for changes to be made.
+The administrator has to create a login id and password even for the moderator and the roles
+and activities of the moderator are as follows
+Activity 1: Sign In
+In order to perform any activity, the moderator must first sign in or login to the website.
+Step 1: Click on Sign in
+the website
+Step 2: In the dashboard, sign in using the login id, password and entering captcha
+given by the admin in the website
+Step 3: Then on another dashboard that opens, notice what action you need to perform
+Activity 2: Update Profile
+Step 1: Sign in to the CMS
+Step 2: Click on Profile button
+Step 3: In the newly opened dashboard, it is mandatory to fill all the fields marked in
+red colour and click on blue colour Submit button
+Step 4: After, clicking on Submit button, confirmation message Success! Data Added
+Successfully! will appear on the screen
+If there is no confirmation message like this, you should try again and fix the error
+Note: To change an already updated profile, you must follow above steps, that is perform
+Activity 2 all over again.
+Activity 3: To Verify
+To verify any content sent by the Creator, follow these steps
+Step 1: Sign in to the website
+Step 2: (Note: You must know what content you intend to verify.)
+Then, in the newly opened dashboard
+ Name: Verify the name below
+ Tittle/Heading: Verify Title/Heading below
+ Content / Link / Image: Verify below
+Image: If there are images verify above
+Link : If the link is provided, and click the same link to verify whether the document
+provided is correct or not.
+If the page is provided with content and you need to review the content on that page, you
+should click on the eye shaped blue button on the dashboard.
+Step 3: In another dashboard that pops up after clicking on the Verify List button, click on the
+square button with the blue tick mark next to the content you want to verify.
+(NOTE: The content that needs to be verified is in blue. If it is in green, means it is already
+verified.)
+The Verify process involves three activities
+3.1 If content is wrong, then, Send Back
+Enter the Send Back content with the reason in the Message section and press the Send Back
+button.
+3.2 Edit content if it is not correct.
+If you want to edit the information yourself
+Click on the Edit button in the saffron colour
+Then, correct the errors in the opened page, click Select Approver, and click on the blue colour
+Submit button
+To approve content, Click on “Yes. Create! “button
+After pressing the Submit button again, “Success! Data Updated Successfully” appears on the
+screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+3.3 Sending content for approval
+If the content sent is verified and correct in all respects, steps to Approve the content
+Select Approver in Select Approver section
+Click or drag the circular button to authenticate
+To authenticate Approver, click on “Yes. Create!” button
+After, confirmation message” Success! Data Added Successfuly!” will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 4: To change the password
+To change the email and password given by the moderator, follow the steps below
+Step 1: Sign in to the website
+Step 2: Select Setting menu in the functional menu and click on Reset Password
+Step 3: Then, in the newly opened page
+E-Mail Address: Don’t change (cannot change)
+Password: Enter new password
+Confirm Password: Enter Confirm password and click on the red colour Reset Password
+Activity 5: Logout Process
+After successfully carrying out all the activities, steps to Logout from the CMS
+Step 1: Select down arrow in the dashboard
+Step 2: Click on Logout to successfully logout from the CMS
+Content Approver
+Before publishing the content, it is mandatory to approve the content by the Content Approver
+Content Approver would be assigned unique login ID and password by nodal officer.
+Activity 1: Sign In
+Approver needs to follow these steps to login to the CMS
+Step 1: To login to the website, enter the URL in the address bar
+Step 2: click on Sign in
+inside the website
+Step 3: Enter your given email id, password, and captcha and click on Sign In
+Activity 2: Update Profile
+Step 1: Sign in to the website
+Step 2: Select Profile in the newly opened dashboard
+Step 3: After clicking on Profile, fill out all the necessary fields with the * mark and click on blue
+colour Submit button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates that you
+have done errors in the content)
+Activity 3: Approving Content
+Content has to be approved before getting published in the website by the content approver.
+Steps to approve the content
+Step 1: Sign in to the website
+Step 2: In the newly opened dashboard
+ Verify contents of name column
+ Verify contents of Tittle/Heading column
+ Verify contents of image/link/content column
+If any image uploaded, it will be superficially visible
+If document is provided in the link, click on the same link to verify if the document
+provided is correct.
+If the page is provided with content and you need to review the content on that page, you
+should click on the eye shaped blue button on the dashboard.
+To approve the content, click on the square dot with the blue tick mark in the dashboard
+Approver process consists of three steps
+Step1: If content is wrong, then Send Back
+If content to be published is wrong, you can send back to correct the errors,
+Click on the blue right mark button
+Then, enter the reasons in the Message section on another dashboard that opens, then click the
+Send Back button in green colour
+Step2: To edit incorrect content.
+Click on the blue right mark
+Click on the yellow colour Edit button in the newly opened dashboard
+After clicking on Edit button, correct the mistakes in the content and click on blue colour submit
+button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, Success! Profile Updated Successfully! Fails to appear, indicates
+that you have done errors in the content)
+Step 3: Approve & publish if the content is correct
+If the content sent for approval is correct, steps to approve the content,
+Click on the blue colour square right mark in the dashboard
+For content authentication, click or drag the circular button
+After, confirmation message Success! Data Added Successfully! will appear on the screen
+(Note: If this message, “Success! Profile Updated Successfully!” Fails to appear, indicates that you
+have done errors in the content)
+To change the email and password given by the admin, follow the steps below
+Step 1: Sign in to the website
+Step 2: Select Setting menu in the functional menu and click on Reset Password
+Step 3: Then, in the newly opened page
+E-Mail Address: Don’t change (also cannot change)
+Password: Enter new password
+Confirm Password: re-enter the new password and click on the red colour Reset Password
+Then, Success! Password Reset Successfully will be displayed on the screen
+(Note: If this message, “Success! Password Reset Successfully!” Fails to appear, indicates
+that you have done errors in the content)
+Logout from the CMS
+Click on this sign
+Click on Logout
+button to logout

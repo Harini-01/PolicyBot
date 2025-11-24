@@ -1,0 +1,20 @@
+# For web crawling and scraping
+requests
+beautifulsoup4
+PyYAML
+tldextract
+lxml
+
+# For PDF and DOCX extraction
+pdfplumber
+python-docx
+
+# For text processing and chunking
+nltk
+
+# For embeddings and vector DB
+sentence-transformers
+faiss-cpu
+
+# Optional (if you want logging/progress bars)
+tqdm
